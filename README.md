@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @M0un1Rr
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning HTML,CSS...
+Hi :D
+Still in my learning journey
 
 
 <!---
